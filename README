@@ -14,5 +14,14 @@ it is recommended to read the various code files to get a better understanding o
 
 INFO:
 required:
-a .jar file named spigot-api.jar, you can get this from 
+a .jar file named spigot-api.jar, you can get this from:
+
+https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api
+
+
+read more about this:
+
+https://www.spigotmc.org/wiki/creating-a-blank-spigot-plugin-in-netbeans/
+
+
 a linux computer, preferably debian or ubuntu, as this is the system i wrote this on
