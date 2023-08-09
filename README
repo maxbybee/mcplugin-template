@@ -1,0 +1,19 @@
+mcplugin-template
+
+a mc plugin builder
+
+not guaranteed to work, or even to not mess up your system
+
+USE AT YOUR OWN DISCRETION!
+
+it is recommended to read the various code files to get a better understanding of what each
+does
+
+
+
+
+
+INFO:
+required:
+a .jar file named spigot-api.jar, you can get this from 
+a linux computer, preferably debian or ubuntu, as this is the system i wrote this on
