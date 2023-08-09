@@ -3,4 +3,4 @@ version: 'v0.1'
 main: com.maxbybee.Plugin
 api-version: "1.20"
 author: maxbybee
-website: https://maxbybee.com/plugin
+website: https://github.com/maxbybee/mcplugin-template
