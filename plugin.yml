@@ -1,6 +1,7 @@
 name: Plugin
-version: 'v0.1'
+version: 'v1.1'
 main: com.maxbybee.Plugin
 api-version: "1.20"
 author: maxbybee
+author-github: github.com/maxbybee
 website: https://github.com/maxbybee/mcplugin-template
