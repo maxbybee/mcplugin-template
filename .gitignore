@@ -1,0 +1,5 @@
+# compiled .jar file
+*.jar
+
+# compiled .class file
+*.class
